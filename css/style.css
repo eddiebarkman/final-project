@@ -163,3 +163,10 @@ nav {
   border-radius: 0.75em;
   padding-left: 1em;
 }
+.aboutImg img{
+width:100% !important;
+}
+.button{
+  background-color:#000;
+  color:#fff;  
+}
